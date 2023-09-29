@@ -1,1 +1,0 @@
-# React-Packing-List-App
